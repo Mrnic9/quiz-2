@@ -1,0 +1,7 @@
+{
+  "name": "Exercise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
